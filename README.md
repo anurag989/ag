@@ -4,7 +4,7 @@
 
 <p align="left">
 
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100024513426527" target="blank>Facebook
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100024513426527">Facebook
 
 </a>
 <a href="https://github.com/anurag989/agg">GitHub</a>

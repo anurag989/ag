@@ -14,7 +14,7 @@ def getEndpoint():
 
 
 def main():
-    print("=== Welcome to FOSSURL Configuration Wizard! ===")
+    print("=== Welcome to agurl configuration wizard! ===")
     endpoint = getEndpoint()
     print("Your JSONBOX Endpoint is : " + JSONBOX_WEBSITE +  endpoint);
     print("Your JSONBOX Dashboard URL is : " + JSONBOX_WEBSITE + "dashboard.html?box=" + endpoint )

@@ -7,7 +7,7 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100024513426527">Facebook
 
 </a>
-<a href="https://github.com/anurag989/agg">GitHub</a>
+<a href="https://github.com/anurag989/agg">GitHub</a><br>
 <a href="https://altcoder.cf/">Personal 
 Website</a><br>
 <a href="https://github.com/anurag989.github.io/agg/">Url shortner</a>

@@ -125,7 +125,7 @@ let shorturl = () => {
         } else {
             if (cre.test(document.getElementById("custominput").value)) {
                 if (cinp()) {
-                    document.getElementById("erbox").style.color = "cyan";
+                    document.getElementById("erbox").style.color = "black";
                     document.getElementById("erbox").innerHTML = " Custom Address Available ✔️";
                     genhash();
                     send_request(longurl);
@@ -151,8 +151,8 @@ document.getElementById("sbtn").addEventListener("click", shorturl);
 
 console.log(`
 
-Agurl-made by anurag singh 
-                                                                                             
+design by anurag singh
+                                                                                                                               
 PLEASE DON'T TYPE ANYTHING BELLOW UNLESS YOU ARE A DEVELOPER!
 
 `)

@@ -7,7 +7,7 @@ html,body {
     margin: 2em;
     margin: auto;
     text-align: center;
-    background: Cyan;
+    background: #b8bed0;
 }
 
 h1,
@@ -40,7 +40,7 @@ p {
 .form {
     margin-bottom: 10px;
     padding: 10px;
-    background-color: #1337a5;
+    background-color:  #e0ecff;
     border: 1px solid #d6d6d6;
     box-shadow: 3px 3px 0px #bababa;
     display: inline-block;
@@ -52,7 +52,7 @@ p {
 .form1{
     margin-bottom: 10px;
     padding: 10px;
-    background-color: #1337a5;
+    background-color:  #e0ecff;
     border: 1px solid #d6d6d6;
     box-shadow: 3px 3px 0px #bababa;
     display: inline-block;
@@ -67,11 +67,16 @@ p {
     margin-bottom: 25px;
     padding: 0px 10px 5px 10px;
     margin: 8px auto 8px;
-    border:  #0e2877;
-	
-    box-shadow: 20px 20px 20px 20px #0e2877;
-    width: 95%;
-    max-width: 600px;
+    -webkit-border-radius:
+ 14px; 
+border-radius:
+ 14px; 
+background: 
+#D1D8EC;
+-webkit-box-shadow: 7px 7px 12px #b8bed0,
+-7px -7px 12px #eaf2ff;
+box-shadow: 7px 7px 12px  #eaf2ff  ,
+-7px -7px 12px #b8bed0;
   
 }
 
@@ -102,23 +107,30 @@ button {
 	margin-top:17px;
 	
 border-radius: 26px;
-background: #00ffff;
-box-shadow: inset 5px -5px 10px #009999,
-            inset -5px 5px 10px #00ffff;
+background:  #e0ecff;
+box-shadow: inset 5px -5px 10px #b8bed0,
+            inset -5px 5px 10px  #e0ecff;
 }
 .main{
+  width:95%;
   height:700px;
- border-radius:14px;
-background: linear-gradient(160deg, #00ffff, #00e6e6);
-box-shadow:  10px 10px 20px #008c8c,
-             -13px -13px 30px #00ffff;
+ -webkit-border-radius:
+ 14px; 
+border-radius:
+ 14px; 
+background: 
+#D1D8EC;
+-webkit-box-shadow: 7px 7px 12px #b8bed0,
+-7px -7px 12px #eaf2ff;
+box-shadow: 7px 7px 12px #b8bed0,
+-7px -7px 12px #eaf2ff;
 }
 
 button:hover {
-    background-color: cyan;
-    color: White;
+    background-color: black;
+    color: Black;
 	border-radius: 47px;
-background: linear-gradient(45deg, blue, #ff4);
+background: linear-gradient(45deg, lightblue, #b8bed0);
 box-shadow:  5px 5px 0px #731b2a,
              5px 5px 0px blue;
 }
